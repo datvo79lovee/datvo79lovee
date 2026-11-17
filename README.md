@@ -12,26 +12,53 @@
 
 ## 🛠️ Languages and Tools
 
-**Practiced in projects**
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" title="SQL Server" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/sqlite/sqlite-original.svg" alt="SQLite" title="SQLite" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/pandas/pandas-original.svg" alt="pandas" title="pandas" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter" width="40" height="40" />
-</p>
-
-**Currently learning & practicing**
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/apachespark/apachespark-original.svg" alt="Apache Spark" title="Apache Spark" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40" />
-</p>
+<table>
+  <tr>
+    <td><b>📥 Ingest &amp; Streaming</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=openapiinitiative&logoColor=white" alt="REST APIs" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🗄️ Store &amp; Manage</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square" alt="SQL Server" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🔄 Transform &amp; Model</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=sqlite&logoColor=white" alt="SQL" />
+      <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🛡️ Quality &amp; Governance</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python_Tests-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Python Tests" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🚀 Platform &amp; CI/CD</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>💻 Workbench</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square" alt="VS Code" />
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+    </td>
+  </tr>
+</table>
 
 ## 🤝 Connect with Me
 
